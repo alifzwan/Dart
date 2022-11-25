@@ -4,7 +4,10 @@ All the Dart Assignment Sem 5
 OUTPUT
 
 Lab 3:
+
+Scaffold:
 ![Output](https://user-images.githubusercontent.com/63784108/204017484-5dd0910e-e62d-47df-b688-9ab7780fc957.png)
+StatefulWidget:
 ![Output StatefulWidget](https://user-images.githubusercontent.com/63784108/204019826-38b8e906-4211-4fd1-b2e8-a80e9f4b64e8.png)
 
 Lab 4:
