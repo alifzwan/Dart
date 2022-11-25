@@ -1,7 +1,7 @@
 # Lab_Assignment
 All the Dart Assignment Sem 5
 
-OUTPUT
+OUTPUT:
 
 Lab 3:
 
