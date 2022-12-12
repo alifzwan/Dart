@@ -27,6 +27,7 @@ Candy Crush Saga:
 ![Output Lab 5 Candy Crush Saga](https://user-images.githubusercontent.com/63784108/204021448-a1df4b8c-af38-4d5a-a682-0bf978832516.png)
 
 Lab 6
+
 ![image](https://user-images.githubusercontent.com/63784108/206950073-19a23b1e-eabd-4535-b459-51509522253d.png)
 
 ![image](https://user-images.githubusercontent.com/63784108/206950164-75d67cb8-6e9a-467e-bff4-050fc328b9e9.png)
