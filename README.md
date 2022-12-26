@@ -26,7 +26,7 @@ Mobile Legend:
 Candy Crush Saga:
 ![Output Lab 5 Candy Crush Saga](https://user-images.githubusercontent.com/63784108/204021448-a1df4b8c-af38-4d5a-a682-0bf978832516.png)
 
-Lab 6
+Lab 6a SQLite
 
 ![image](https://user-images.githubusercontent.com/63784108/206950454-e78fd2a4-75b9-4c19-b949-65571d1d3e3a.png)
 
@@ -38,6 +38,9 @@ Lab 6
 
 ![image](https://user-images.githubusercontent.com/63784108/206950238-21b65e75-b867-45f0-b7d8-e9c16a2960af.png)
 
+Lab 6b Firebase
+
+![image](https://user-images.githubusercontent.com/63784108/209584071-ef045ca5-d9ca-4714-87d4-cc7f494f9a7d.png)
 
 
 
